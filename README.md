@@ -44,7 +44,11 @@ With hands-on experience in various programming languages, databases, and develo
 ---
 
 ##  Let's Connect
-[LinkedIn](https://www.linkedin.com/in/shilat-sharvit-b90164378/) | [Email](mailto:shilat3015@gmail.com)
+
+[**Shilat Sharvit**](https://github.com/ShilatSharvit)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shilat-sharvit-b90164378/)  
+[![Email](https://img.shields.io/badge/Email-shilat3015%40gmail.com-red)](mailto:shilat3015@gmail.com)
+
 
 > Actively seeking a Full Stack Development role with a focus on Backend, where I can contribute my skills and continue to grow professionally.
 
