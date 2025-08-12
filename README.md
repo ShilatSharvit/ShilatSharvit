@@ -1,4 +1,4 @@
-# Hi there! I'm Shilat Sharvit 
+# Shilat Sharvit 
 
  Full Stack Developer | QA Certified | Problem Solver  
  South, Israel |  shilat3015@gmail.com  
